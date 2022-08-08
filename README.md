@@ -16,6 +16,7 @@ Patika.dev yazılım meraklılarına bu alanda mükemmel bir eğtimle yol göste
 
 ## Nasıl Eğitim Veriyor
 
+
 Bir ana konuyu küçük konulara böldüğü dersler şeklinde eğitim veriyor.Dersler şunlardan oluşmaktadır;
 
 1. Video
