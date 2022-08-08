@@ -31,5 +31,5 @@ Bir ana konuyu küçük konulara böldüğü dersler şeklinde eğitim veriyor.D
 
 ![kodluyoruz görseli](https://avatars.githubusercontent.com/u/30476529?s=200&v=4)
 
-[SENDE EĞİTİME BAŞLA](https://app.patika.dev/sign-up)
+  [SENDE EĞİTİME BAŞLA](https://app.patika.dev/sign-up)
 
