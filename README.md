@@ -6,18 +6,15 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo, içerisinde 
 
 ```
 https://github.com/Sibgatullahsanli
+
 ```
 
-
-
 ## Patika.dev Nedir
-
 Patika.dev yazılım meraklılarına bu alanda mükemmel bir eğtimle yol gösteren online bir platformdur.
 
+
 ## Nasıl Eğitim Veriyor
-
-
-Bir ana konuyu küçük konulara böldüğü dersler şeklinde eğitim veriyor.Dersler şunlardan oluşmaktadır;
+Bir ana konuyu küçük konulara böldüğü dersler şeklinde eğitim veriyor. Dersler şunlardan oluşmaktadır;
 
 1. Video
 2. Yazı
@@ -31,5 +28,5 @@ Bir ana konuyu küçük konulara böldüğü dersler şeklinde eğitim veriyor.D
 
 ![kodluyoruz görseli](https://avatars.githubusercontent.com/u/30476529?s=200&v=4)
 
-  [SENDE BU FAYDALI EĞİTİMİ ALMAK İÇİN TIKLA](https://app.patika.dev/sign-up)
+  [SENDE BU EĞİTİMLERİ ALMAK İÇİN TIKLA](https://www.patika.dev/tr)
 
