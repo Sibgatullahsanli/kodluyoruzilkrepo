@@ -28,3 +28,5 @@ Bir ana konuyu küçük konulara böldüğü dersler şeklinde eğitim veriyor.D
 * Yazılımdan anlayan bireylere de öğreneceği başka başka konuların varlığını gösterir.
 * Bence en güzel ve en önemli faydası bunu kendine meslek edinmek isteyenleri fazla iş yükünden kurtaracak şekilde imkan sağlayan çözüm ve uygulamaları öğretiyor olmasıdır.
 
+![kodluyoruz görseli](https://avatars.githubusercontent.com/u/30476529?s=200&v=4)
+
