@@ -5,7 +5,7 @@
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ```
-https://avatars.githubusercontent.com/u/30476529?s=200&v=4
+https://github.com/Sibgatullahsanli
 ```
 
 
