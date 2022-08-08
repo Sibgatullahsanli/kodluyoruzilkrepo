@@ -1,4 +1,4 @@
 # Kodluyoruz İlk Repo
 
-## deneme
+## Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
